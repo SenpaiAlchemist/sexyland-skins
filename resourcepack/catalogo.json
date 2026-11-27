@@ -1,0 +1,158 @@
+{
+ "arena": [
+  {
+   "evento": "sexyland:arena.antesala",
+   "segundos": 98.4
+  },
+  {
+   "evento": "sexyland:arena.cabalgata_valquirias",
+   "segundos": 48.7
+  },
+  {
+   "evento": "sexyland:arena.furia_del_coloso",
+   "segundos": 73.3
+  },
+  {
+   "evento": "sexyland:arena.rey_de_la_montana",
+   "segundos": 55.1
+  },
+  {
+   "evento": "sexyland:arena.tambores_de_guerra",
+   "segundos": 81.7
+  },
+  {
+   "evento": "sexyland:arena.victoria",
+   "segundos": 6.2
+  }
+ ],
+ "bardo": [
+  {
+   "evento": "sexyland:bardo.balada_del_viajero",
+   "segundos": 138.2
+  },
+  {
+   "evento": "sexyland:bardo.greensleeves_laud",
+   "segundos": 167.4
+  },
+  {
+   "evento": "sexyland:bardo.jiga_de_la_taberna",
+   "segundos": 127.1
+  },
+  {
+   "evento": "sexyland:bardo.marinero_borracho",
+   "segundos": 61.1
+  },
+  {
+   "evento": "sexyland:bardo.oda_a_la_alegria",
+   "segundos": 87.9
+  },
+  {
+   "evento": "sexyland:bardo.scarborough_fair",
+   "segundos": 123.0
+  }
+ ],
+ "castillo": [
+  {
+   "evento": "sexyland:castillo.ambiente_salon",
+   "segundos": 177.7
+  },
+  {
+   "evento": "sexyland:castillo.canon_pachelbel",
+   "segundos": 135.2
+  },
+  {
+   "evento": "sexyland:castillo.danza_hungara_5",
+   "segundos": 84.1
+  },
+  {
+   "evento": "sexyland:castillo.greensleeves",
+   "segundos": 167.4
+  },
+  {
+   "evento": "sexyland:castillo.jesus_alegria_bach",
+   "segundos": 69.4
+  },
+  {
+   "evento": "sexyland:castillo.minueto_bach",
+   "segundos": 157.4
+  },
+  {
+   "evento": "sexyland:castillo.primavera_vivaldi",
+   "segundos": 47.2
+  },
+  {
+   "evento": "sexyland:castillo.serenata_mozart",
+   "segundos": 64.7
+  }
+ ],
+ "mision": [
+  {
+   "evento": "sexyland:mision.lamento",
+   "segundos": 130.2
+  },
+  {
+   "evento": "sexyland:mision.mision_aceptada",
+   "segundos": 6.7
+  },
+  {
+   "evento": "sexyland:mision.mision_completada",
+   "segundos": 7.8
+  },
+  {
+   "evento": "sexyland:mision.mision_fallida",
+   "segundos": 12.2
+  },
+  {
+   "evento": "sexyland:mision.misterio",
+   "segundos": 71.5
+  },
+  {
+   "evento": "sexyland:mision.secreto_descubierto",
+   "segundos": 4.4
+  },
+  {
+   "evento": "sexyland:mision.viaje_heroico",
+   "segundos": 110.0
+  }
+ ],
+ "pueblo": [
+  {
+   "evento": "sexyland:pueblo.gymnopedie_satie",
+   "segundos": 134.9
+  },
+  {
+   "evento": "sexyland:pueblo.hogar_del_gremio",
+   "segundos": 66.5
+  },
+  {
+   "evento": "sexyland:pueblo.la_manana_grieg",
+   "segundos": 137.5
+  },
+  {
+   "evento": "sexyland:pueblo.noche_estrellada",
+   "segundos": 79.4
+  }
+ ],
+ "valyria": [
+  {
+   "evento": "sexyland:valyria.aliento_del_dragon",
+   "segundos": 112.0
+  },
+  {
+   "evento": "sexyland:valyria.claro_de_luna",
+   "segundos": 124.0
+  },
+  {
+   "evento": "sexyland:valyria.dies_irae",
+   "segundos": 132.0
+  },
+  {
+   "evento": "sexyland:valyria.eco_de_la_cripta",
+   "segundos": 100.8
+  },
+  {
+   "evento": "sexyland:valyria.tocata_bach",
+   "segundos": 67.2
+  }
+ ]
+}
